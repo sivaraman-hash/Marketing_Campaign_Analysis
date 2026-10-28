@@ -186,4 +186,5 @@ The raw dataset is not included. Download it from Kaggle and check its license t
 - Track campaign cost and ROI
 
 ## Author
-Built as an internship project. Add your name, LinkedIn and GitHub links here.
+Built as an internship project. 
+By Sivaraman V
